@@ -65,7 +65,7 @@ https://github.com/Alexandria-s-Design/personal-journal-literature-review-submis
 - **Name:** Marie Martin
 - **Affiliation:** University of Southern California (USC)
 - **Email:** Alexandriasworld1234@gmail.com
-- **ORCID:** (Leave blank if not provided)
+- **ORCID:** https://orcid.org/0009-0007-0508-7554
 - **Co-authors:** None
 
 **5. TARGET WORD COUNT:**
@@ -174,6 +174,7 @@ https://github.com/Alexandria-s-Design/personal-journal-literature-review-submis
 - Author name: Marie Martin
 - Affiliation: University of Southern California
 - Contact email: Alexandriasworld1234@gmail.com
+- ORCID: https://orcid.org/0009-0007-0508-7554
 - Word count
 - Keywords
 - Any other author information required by template
