@@ -10,6 +10,18 @@ Research from dissertation: *"The Fourth Industrial Superintendent: Transforming
 
 This repository contains comprehensive research on publication opportunities for adapting the dissertation's literature review (Chapter 2) into journal articles.
 
+### 🚀 Quick Start (After Context Reset)
+
+**[PROMPT_FOR_CLAUDE_CODE.md](PROMPT_FOR_CLAUDE_CODE.md)** ⭐ **COPY THIS PROMPT**
+- Complete prompt to paste into Claude Code after reset
+- 8 follow-up questions to guide adaptation process
+- Expected workflow and deliverables
+- Success criteria checklist
+
+### 📄 Journal Template
+
+**[jelps-template.pdf](jelps-template.pdf)** - Official JELPS manuscript formatting template
+
 ### Research Documents
 
 1. **[FAST_TURNAROUND_FREE_JOURNALS.md](FAST_TURNAROUND_FREE_JOURNALS.md)** ⭐ **START HERE**
