@@ -140,3 +140,11 @@ The literature review covers:
 ---
 
 **Goal:** Get Dr. Marie Martin's important research on Fourth Industrial Revolution superintendent leadership published in a legitimate, peer-reviewed journal with wide readership - completely FREE! 🎉
+
+## Status
+Active
+
+## TODO
+- [ ] Complete draft revisions
+- [ ] Submit to journal
+- [ ] Address reviewer feedback
